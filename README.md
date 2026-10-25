@@ -33,7 +33,7 @@ information into one system, assesses each patient's needs, and flags
 when a change, such as increased medication, means a discharge should
 be reassessed. A social worker always gives the final approval.
 
-**Tech:** Python, FastAPI, Pydantic, Next.js, TypeScript, Tailwind CSS
+**Tech:** Python, FastAPI, Pydantic, Google Gemini API, Next.js, TypeScript, Tailwind CSS
 
 **Repository:**
 [Pont AI](https://github.com/MAsif456/Pont-AI)
@@ -48,7 +48,7 @@ diagrams and Figma prototype, built the CI/CD pipeline and deployments,
 and implemented slot selection, human escalation and analytics
 endpoints.
 
-**Tech:** Next.js, NestJS, MongoDB, Vercel, Render
+**Tech:** Next.js, NestJS, MongoDB, Llama 3.3 (Groq), Vercel, Render
 
 **Repository:**
 [Lunax Digital AI Appointment Setter](https://github.com/MAsif456/AI-Appointment-Setter)
