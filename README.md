@@ -109,7 +109,10 @@ the Jenkins pipeline.
 
 ## About my team projects
 My team projects have a "My contribution" section in the
-repository README that states exactly what I worked on.
+repository README that states exactly what I worked on. Commits on my
+university projects appear under my former university username,
+**MASAsif**, because that account was closed when I graduated. Pont AI
+is under my current username.
 
 ## Skills
 
