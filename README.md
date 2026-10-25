@@ -14,7 +14,12 @@ During this 8-week internship I worked solo, with social workers and
 Caerphilly Council, to tackle slow hospital discharge into social
 care. Discharges were tracked on manual spreadsheets, and staff had to
 visit wards for updates, so patients waited too long for the care they
-needed. I built Pont AI (below) to address this, demonstrated the
+needed.
+
+My first version only summarised patient notes. On my supervisor's
+advice, and after hearing social workers describe how poorly
+information is coordinated, I rebuilt it as Pont AI (below), a system
+that brings the information together in one place. I demonstrated the
 working prototype to Caerphilly Council and to university colleagues,
 including the head of computer science, and received positive
 feedback. It is a prototype and has not been deployed in a hospital.
@@ -67,7 +72,7 @@ choice of reciters, and the app works in light and dark themes.
 **Repository:**
 [Quran Memorisation App](https://github.com/MAsif456/Qur-an-Memorisation-App)
 
-### Accessible Games Platform (team project)
+### Accessible Games Platform (team project, team of 4)
 A Steam-style website that lists only games accessible to people with
 motor, dexterity and other disabilities, so the community can find
 games they can actually play. Each game appears as a card with its
